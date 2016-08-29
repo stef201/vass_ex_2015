@@ -12,7 +12,6 @@ public class Mesaj extends Contact {
 	protected String mesaj;
 
 	public Mesaj() {
-
 	}
 
 	public Mesaj(String nume, String email, String mesaj) {
