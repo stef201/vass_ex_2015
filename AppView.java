@@ -33,6 +33,7 @@ import javax.xml.stream.XMLStreamWriter;
 
 import org.xml.sax.SAXException;
 
+@SuppressWarnings("restriction")
 public class AppView extends JFrame {
 
 	private JPanel contentPane;
