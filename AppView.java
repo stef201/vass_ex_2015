@@ -403,7 +403,6 @@ public class AppView extends JFrame {
 			writer.writeEndDocument();
 			writer.flush();
 			writer.close();
-			
 	}
 	
 	private static Connection getDbConnection() throws Throwable {
